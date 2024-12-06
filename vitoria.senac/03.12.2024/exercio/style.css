@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(218, 205, 191);
+}
+
+h1{
+   text-align: center;
+   color: rgb(156, 145, 107);
+}
+
+#ponte{
+    text-align: center;
+    background-color: rgb(202, 194, 155);
+    padding: 10px;
+    border: 4px;
+    margin-top: 10;
+    border-radius: 10px;
+}
+
+.sla{
+    background-color: bisque;
+}
+
+#back{
+    background-color: rgb(192, 171, 145);
+}

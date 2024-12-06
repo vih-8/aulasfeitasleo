@@ -1,0 +1,25 @@
+body{
+    font: normal;
+}
+
+h1{
+    font-size: 30px;
+    color: aqua;
+}
+
+h2{
+    color: aqua;
+}
+
+#titulo-principal{
+    color: aliceblue;
+    background-color: rgb(86, 134, 92);
+}
+
+.topico{
+    text-align: right;
+}
+
+.texto{
+    text-align: justify;
+}

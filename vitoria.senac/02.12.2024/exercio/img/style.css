@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(201, 244, 248);
+    color: rgb(160, 213, 229);
+
+}
+
+a{
+    color: rgba(5, 5, 5, 0.836);
+    text-decoration:underline;
+}
+
+/* Os ":" indica qe o estilo só vai ser aplicado em determinada condição. por exemplo, nesse caso,a cor de fonte azul claro só vai ser aplicada nos lins em que eu já cliquei (visited) */
+a:visited{
+    color: #f398d0;
+}
